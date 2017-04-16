@@ -1,2 +1,2 @@
-node Kabuto-Zecter.js
+node Kabuto-Zecter.j
 pause
